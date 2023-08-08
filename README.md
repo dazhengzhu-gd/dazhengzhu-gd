@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dazhengzhu-gd
-- 🌊 I’m interested in Reading
-- 💧 I’m currently learning Web
+- 🌊 Android developer
+- 💧 Currently learning the React Native
+- 🎄 Hope tmr will be better
 
 <!---
 dazhengzhu-gd/dazhengzhu-gd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
